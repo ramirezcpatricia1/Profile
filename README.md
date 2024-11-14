@@ -6,8 +6,9 @@ I’m an **Economist** with a genuine passion for data-driven insights
 I have worked as a **Financial Analyst** and **Frontend Developer** in different projects.
 I enjoy working on projects that allow me to leverage my skills in **data-driven decision making** and **digital solutions**.
 
-Feel free to reach out if you’d like to connect or discuss potential collaborations!
+Feel free to reach out for networking or collaboration opportunities!
 
+**Follow me on:** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramirezcpatricia1/)
 
