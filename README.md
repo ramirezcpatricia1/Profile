@@ -9,4 +9,4 @@ I enjoy working on projects that allow me to leverage my skills in **data-driven
 Feel free to reach out if you’d like to connect or discuss potential collaborations!
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramirezcpatricia1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramirezcpatricia1/)
