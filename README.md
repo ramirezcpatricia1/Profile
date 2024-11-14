@@ -2,7 +2,7 @@
 
 
 ### About Me
-I’m an **Economist** with a genuine passion for data. 
+I’m an **Economist** with a genuine passion for data-driven insights 
 I have worked as a **Financial Analyst** and **Frontend Developer** in different projects.
 I enjoy working on projects that allow me to leverage my skills in **data-driven decision making** and **digital solutions**.
 
